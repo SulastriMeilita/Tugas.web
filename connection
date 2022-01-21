@@ -1,0 +1,8 @@
+</php
+
+$host= "localhost";
+$user="root";
+$pass="";
+$dbname="Tugas_Web1"
+$connect=mysqli_connect ($host,$user,$pass,$dbname);
+?>
