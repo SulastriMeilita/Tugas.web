@@ -1,0 +1,21 @@
+<a href="index.php">Go To Home</a>
+<br/>
+<form action-"save.php" method="post" >
+<table width="25%" border="0">
+<tr>
+<td> Nama Siswa </td><td><input type="text" name="nama siswa"></td>
+</tr>
+<tr>
+<td> Jenis Kelamin </td><td><input type="radio" id="male" name="gender" value="Pria">Pria</td><td><input type="radio" id="male" name="gender" value="Wanita">Wanita</td>
+</tr>
+<tr>
+<td> Alamat </td><td><input type="text" name="alamat"></td>
+</tr>
+<tr>
+<td> Hobby </td><td><input type="text" name="hobby"></td>
+</tr>
+<tr>
+<td> Save </td><td><input type="submit" name="save" value="save"></td>
+</tr>
+</table>
+</form> 
